@@ -1,0 +1,15 @@
+#ignore file
+.DS_Store
+*.pyc
+*.log
+*.out
+*.project
+*.pydevproject
+*.xml
+*.swp
+*.png
+*.jpg
+README.md.idea
+*report
+*.apk
+*.html

@@ -1,0 +1,18 @@
+email_invalid:
+    user:           abcabcabc
+    pass:           '123123123123123123'
+    error_message:  This email address is invalid
+
+pass_short:
+    user:           foo@example.com
+    pass:           '1234'
+    error_message:  This password is too short
+
+pass_invalid:
+    user:           foo@example.com
+    pass:           hellojaahellojaa
+    error_message:  Please check email or password.
+
+login_success:
+    user:           foo@example.com
+    pass:           hellojaa
